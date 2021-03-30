@@ -14,5 +14,6 @@ public class App
         System.out.println("分支1");
         System.out.println("主干添加");
         System.out.println("分支添加");
+        System.out.println("在线更新");
     }
 }
